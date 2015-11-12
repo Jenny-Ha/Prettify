@@ -12,6 +12,9 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: bold;
 	margin: 25px 0;
 }
+a{
+	text-decoration: none;
+}
 
 .list-nav li {
 	display: inline-block;
@@ -25,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 	padding: 5px 20px;
 	color: #555;
 	font-family: 'Oswald', Arial, sans-serif;
-	text-decoration: none;
+	transition: all .5s;
 	-webkit-transition: all .5s;
 	   -moz-transition: all .5s;
 	    -ms-transition: all .5s;
