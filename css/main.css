@@ -3,9 +3,9 @@ body {
 	font-family: 'Arial', sans-serif;
 	font-style: 13px;
 }
-* {
+/* {
 	outline: 2px solid rgba(0, 0, 250, .3)
-}
+}*/
 h1, h2, h3, h4, h5, h6 {
 	color:#a9268d;
 	font-family: 'Oswald', Arial, sans-serif;
